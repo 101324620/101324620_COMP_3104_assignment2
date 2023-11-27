@@ -1,0 +1,4 @@
+NAME: Jerome Delos Reyes
+STUDENT ID: 101324620
+
+MESSAGE: Git repository created from AWS EC2 instance
